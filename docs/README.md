@@ -29,4 +29,4 @@
 </div>
 
 ---
-\**This work in progress (WIP)*
+\**This set of articles is a work in progress (WIP)*
