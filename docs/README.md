@@ -22,6 +22,10 @@
  
  <li><h4><a href="./03-00.md#iii-jay-shah">iii) Jay Shah</a></h4></li>
  </ul>
- 
+
+<li><h4><a href="./04-00.md#4-segregationism">4. Segregationism</a></h4></li>
+
 </ul>
 </div>
+
+\**This is a work in progress (WIP)*
