@@ -28,4 +28,5 @@
 </ul>
 </div>
 
-\**This is a work in progress (WIP)*
+---
+\**This work in progress (WIP)*
