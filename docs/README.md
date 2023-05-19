@@ -16,11 +16,11 @@
 <li><h4><a href="./03-00.md#3-systemic-connectivity-from-the-municipalities-to-university-programs">3. Systemic Connectivity from The Municipalities to University Programs</a></h4></li>
 
  <ul>
- <li><h4><a href="./03-00.md#a-brad">a) Brad</a></h4></li>
+ <li><h4><a href="./03-00.md#a-brad">i) Brad <small>(click here)</small></a></h4></li>
  
- <li><h4><a href="./03-00.md#b-crista-renner">b) Crista Renner</a></h4></li>
+ <li><h4><a href="./03-00.md#b-crista-renner">ii) Crista Renner <small>(click here)</small></a></h4></li>
  
- <li><h4><a href="./03-00.md#c-jay-shah">c) Jay Shah</a></h4></li>
+ <li><h4><a href="./03-00.md#c-jay-shah">iii) Jay Shah <small>(click here)</small></a></h4></li>
  </ul>
  
 </ul>
