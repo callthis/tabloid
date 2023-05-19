@@ -15,14 +15,6 @@
 
 <li><h4><a href="./03-00.md#3-systemic-connectivity-from-the-municipalities-to-university-programs">3. Systemic Connectivity from The Municipalities to University Programs</a></h4></li>
 
- <ul>
- <li><h4><a href="./03-00.md#i-brad">i) Brad</a></h4></li>
- 
- <li><h4><a href="./03-00.md#ii-crista-renner">ii) Crista Renner</a></h4></li>
- 
- <li><h4><a href="./03-00.md#iii-jay-shah">iii) Jay Shah</a></h4></li>
- </ul>
-
 <li><h4><a href="./04-00.md#4-segregationism">4. Segregationism</a></h4></li>
 
 </ul>
