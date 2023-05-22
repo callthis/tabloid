@@ -17,6 +17,14 @@
 
 <li><h4><a href="./04-00.md#4-segregationism">4. Segregationism</a></h4></li>
 
+<li><h4><a href="./05-00.md#5-open-letters">5. Open Letters</a></h4></li>
+
+ <ul>
+ <li><h4><a href="./05-01.md#51-not-king-edward">5.1 Not King Edward</a></h4></li>
+ 
+ <li><h4><a href="./05-02.md#52-not-all-the-kings-horses-and-all-the-kings-men">5.2 Not All The King's Horses and All The King's Men</a></h4></li>
+ </ul>
+
 </ul>
 </div>
 
