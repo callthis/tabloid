@@ -23,6 +23,10 @@
  <li><h4><a href="./05-01.md#51-not-to-king-edward">5.1 Not To King Edward</a></h4></li>
  
  <li><h4><a href="./05-02.md#52-not-to-all-the-kings-horses-and-all-the-kings-men">5.2 Not To All The King's Horses and All The King's Men</a></h4></li>
+ 
+ <li><h4><a href="./05-03.md#53-not-to-prince-andrew">5.3 Not To Prince Andrew</a></h4></li>
+ 
+ <li><h4><a href="./05-04.md#54-not-to-prince-philip">5.1 Not To Prince Philip</a></h4></li>
  </ul>
 
 </ul>
