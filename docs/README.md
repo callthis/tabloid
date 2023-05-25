@@ -26,7 +26,9 @@
  
  <li><h4><a href="./05-03.md#53-not-to-prince-andrew">5.3 Not To Prince Andrew</a></h4></li>
  
- <li><h4><a href="./05-04.md#54-not-to-prince-philip">5.1 Not To Prince Philip</a></h4></li>
+ <li><h4><a href="./05-04.md#54-not-to-prince-philip">5.4 Not To Prince Philip</a></h4></li>
+ 
+ <li><h4><a href="./05-05.md#55-not-to-princess-margaret">5.5 Not To Princess Margaret</a></h4></li>
  </ul>
 
 </ul>
