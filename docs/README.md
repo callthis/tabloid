@@ -35,7 +35,7 @@
 </div>
 
 ---
-\**This set of articles is a work in progress (WIP)*
+\**These articles are a work in progress (WIP)*
 
 ---
 #### Disclaimer
