@@ -35,6 +35,8 @@
  <li><h4><a href="./05-07.md#57-not-to-princess-anne">5.7 Not to Princess Anne</a></h4></li>
  
  <li><h4><a href="./05-08.md#58-to-larry-smith">5.8 To Larry Smith</a></h4></li>
+ 
+ <li><h4><a href="./05-09.md#59-not-to-prince-edward">5.9 Not to Prince Edward</a></h4></li>
  </ul>
 
 </ul>
