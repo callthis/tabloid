@@ -47,6 +47,4 @@
 ---
 #### Disclaimer
 
-Images and hyperlinked content provided within any of these articles were obtained from online resources. They are either in the public domain as free to use content, or have been used here in an educational context within the provisions of "fair use" for documentary and literary purposes. 
-
-\**These articles are a work in progress (WIP)*
+Images and hyperlinked content provided within any of these articles were obtained from online resources. They are either in the public domain as free to use content, or have been used here in an educational context within the provisions of "fair use" for documentary and literary purposes. \**These articles are a work in progress (WIP)*
