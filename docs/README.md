@@ -38,7 +38,7 @@
  
  <li><h4><a href="./05-09.md#59-not-to-prince-edward">5.9 Not to Prince Edward</a></h4></li>
  
- <li><h4><a href="./05-10.md#510-not-to-harry">5.9 Not to Harry</a></h4></li>
+ <li><h4><a href="./05-10.md#510-not-to-harry">5.10 Not to Harry</a></h4></li>
  </ul>
 
 </ul>
