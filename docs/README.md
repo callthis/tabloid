@@ -41,6 +41,8 @@
  <li><h4><a href="./05-10.md#510-not-to-harry">5.10 Not to Harry</a></h4></li>
  </ul>
 
+<li><h4><a href="./06-00.md#6-the-role-of-american-funded-operatives-in-canada">6. The Role of American Funded Operatives in Canada</a></h4></li>
+
 </ul>
 </div>
 
